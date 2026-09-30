@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/ai-minor",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/ai-minor/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/admin",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/admin/",
+      "destination": "/index.html"
+    }
+  ]
+}
